@@ -4,8 +4,7 @@
 *main- An entry point that print the string in printf function
 *
 *Description: Using the main function.
-* This program print
-*"Size of various data types on the computer 
+* This program print "Programming is like building a multilingual puzzle
 *Return: 0
 */
 int main(void)
@@ -20,6 +19,6 @@ int main(void)
 	printf("Size of an int: %ld byte(s)\n", sizeof(i));
 	printf("Size of a long: %ld byte(s)\n", sizeof(li));
 	printf("Size of a long long int: %ld byte(s)\n", sizeof(lli));
-	printf("Size of a float: %ld byte(s)\n", sizeof(f)); 
+	printf("Size of a float: %ld byte(s)\n", sizeof(f));
 	return (0);
 }
