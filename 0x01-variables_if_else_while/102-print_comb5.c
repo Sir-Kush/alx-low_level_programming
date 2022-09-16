@@ -1,10 +1,10 @@
 #include <stdio.h>
+
 /**
- *  * main - program
- *   * Description: program that prints all possible combinations of two two-digit
- *    *
- *     * Return: Always 0 (success)
- *      */
+ * main - program
+ * Description: program that prints all possible combinations of two two-digit
+ * Return: Always 0 (success)
+ */
 int main(void)
 {
 	int c, i, k, j;
