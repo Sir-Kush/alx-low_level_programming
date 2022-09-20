@@ -2,9 +2,9 @@
 
 /**
  * _strlen - a return function
- * @s: string
+ * @s: string to check
  *
- * Return: len as integer
+ * Return: len as int
  */
 
 
