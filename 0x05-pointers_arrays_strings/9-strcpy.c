@@ -1,18 +1,23 @@
-#include "main.h"
-#include <stdio.h>
+#include "stdio.h"
+#includ "main.h"
 
 /**
- * main - check the code for ALX School students.
- *
- * Return: Always 0.
+ * *_strcpy -  copies the string pointed to by src
+ * @dest: char type string
+ * @src: char type string
+ * Description: Copy the string pointed to by pointer `src` to
+ * the buffer pointed to by `dest`
+ * Return: Pointer to `dest
  */
-int main(void)
-{
-	char s1[98];
-	char *ptr;
 
-	ptr = _strcpy(s1, "First, solve the problem. Then, write the code\n");
-	printf("%s", s1);
-	printf("%s", ptr);
-	return (0);
+char *_strcpy(char *dest, char *src)
+{
+	int i = -1;
+
+	do {
+		i++;
+		dest[i] = src[i];
+	} while (src[i] != '\0');
+
+	return (dest);
 }
