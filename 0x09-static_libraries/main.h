@@ -1,11 +1,11 @@
-#ifndef MAINN_H
+#ifndef MAIN_H
 #define MAIN_H
 
 /*
  * File: main.h
  * Auth: Idris
  * Desc: Header file containing the prototypes of all functions
- *       included in the static library libmain.a.
+ *       included in the static library libmy.a.
  */
 
 int _putchar(char c);
