@@ -1,22 +1,4 @@
 #include "main.h"
-
-betascribbles
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x0C-more_malloc_free/101-mul.c
-@betascribbles
-betascribbles a program that multiplies two positive numbers.
- 1 contributor
-232 lines (194 sloc)  4.56 KB
-#include "holberton.h"
 #include <stdlib.h>
 #include <stdio.h>
 
