@@ -1,20 +1,4 @@
 
-betascribbles
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-@betascribbles
-betascribbles completed tasks successfully
- 1 contributor
-30 lines (24 sloc)  777 Bytes
 #ifndef VARIADIC_FUNCTIONS_H
 #define VARIADIC_FUNCTIONS_H
 
